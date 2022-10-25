@@ -8,7 +8,7 @@ https://codeytek.com/course/next-js-tutorials-for-beginners/
 
 ## Installation :wrench:
 
-1. Clone this repo by running `git clone https://github.com/imranhsayed/next-js-app`
+1. Clone this repo by running `git clone https://github.com/elitedev619/next-js-app`
 2. `cd next-js-app`
 3. `npm install`
 4. `npm run dev`
@@ -28,7 +28,7 @@ https://codeytek.com/course/next-js-tutorials-for-beginners/
 4. [dynamic-page-query-string](https://github.com/imranhsayed/next-js-app/tree/dynamic-page-query-string) Example to create dynamic post pages by extracting query string from url using `withRouter`
 5. [route-masking](https://github.com/imranhsayed/next-js-app/tree/route-masking) Example to show a different URL on the browser than the actual URL that your app sees by adding "as" props to the link.
 
-## [Custom Express Configuration with next js](https://github.com/imranhsayed/next-js-app/tree/express-with-next)
+## [Custom Express Configuration with next js](https://github.com/elitedev619/next-js-app/tree/express-with-next)
 
 ```ruby
 const express = require( 'express' );
@@ -100,7 +100,7 @@ app.prepare()
 
 ## Author :bust_in_silhouette:
 
-* **[Imran Sayed](https://codeytek.com)**
+* **[Elite Dev](https://codeytek.com)**
 
 ## License
 
